@@ -1,3 +1,4 @@
+![logo](https://github.com/KartikSingh1010/KartikSingh1010/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Kartik Singh</h1>
 <h3 align="center">Frontend developer passionate about creating seamless and engaging user experiences.
 <hr>
